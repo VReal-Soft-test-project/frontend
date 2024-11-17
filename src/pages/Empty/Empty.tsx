@@ -1,5 +1,5 @@
 import React from 'react';
 
 export const Empty = () => {
-  return <div>Empty</div>;
+  return <div>Empty Page</div>;
 };
